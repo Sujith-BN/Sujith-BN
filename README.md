@@ -1,4 +1,5 @@
 ![logo](https://github.com/Sujith-BN/Sujith-BN/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Sujith BN</h1>
 <h3 align="center">A passionate Java developer from India 🇮🇳</h3>
 
@@ -59,18 +60,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  </a>
 </p>
 
 ---
@@ -78,13 +67,6 @@
 ### 🚀 Featured Projects  
 
 - 🏠 **Shelter PG Finder** — Find PG accommodations easily with secure Spring Boot backend  
-  🔗 [View Project](https://github.com/Sujith-BN/Shelter-PG-Finder)
-
-- ✅ **To-Do List App** — Task manager with authentication using Spring Boot + MySQL  
-  🔗 [View Project](https://github.com/Sujith-BN/ToDo-List-App)
-
-- 🌐 **Portfolio Website** — Responsive portfolio built with HTML, CSS & Bootstrap  
-  🔗 [View Project](https://github.com/Sujith-BN/Portfolio)
 
 ---
 
@@ -97,11 +79,21 @@
 ### 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujith-bn&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujith-BN&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
+### 📊 LeetCode Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujith-bn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+  <img src="https://leetcard.jacoblin.cool/sujith01bn?theme=dark" alt="LeetCode Stats" />
+</p>
+
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujith-BN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
