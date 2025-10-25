@@ -1,3 +1,4 @@
+![logo](https://github.com/Sujith-BN/Sujith-BN/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sujith BN</h1>
 <h3 align="center">A passionate Java developer from India 🇮🇳</h3>
 
