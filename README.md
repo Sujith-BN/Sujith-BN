@@ -10,7 +10,7 @@
 ### 🌟 About Me  
 
 - 👨‍💻 Building full-stack web applications using **Java & Spring Boot**  
-- 💬 Ask me about **Java • Spring Boot • REST APIs • MySQL • JavaScript • HTML/CSS • Bootstrap**  
+- 💬 Ask me about **Java • Spring Boot • REST APIs • MySQL • JavaScript • React • HTML/CSS • Bootstrap**  
 - 📫 Reach me at **sujithbn01@gmail.com**  
 - ⚡ Fun fact: **I think I’m funny 😄**
 
